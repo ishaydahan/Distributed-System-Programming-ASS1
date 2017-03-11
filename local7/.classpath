@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/ishaydahan/Desktop/aws-java-sdk-1.11.63/lib/aws-java-sdk-1.11.63.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ishaydahan/Desktop/aws-java-sdk-1.11.63/third-party/lib/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ishaydahan/Desktop/aws-java-sdk-1.11.63/third-party/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
